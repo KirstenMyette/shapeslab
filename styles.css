@@ -1,0 +1,37 @@
+.square {
+  width: 100px;
+  height: 100px;
+  background: greenyellow; }
+
+.rectangle {
+  width: 200px;
+  height: 100px;
+  background: purple; }
+
+.circle {
+  width: 100px;
+  height: 100px;
+  background: #eb1197;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px; }
+
+.triangle-bottomleft {
+  width: 0;
+  height: 0;
+  border-bottom: 100px solid forestgreen;
+  border-right: 100px solid transparent; }
+
+#shapecontainer {
+  background-color: blue;
+  width: 80%;
+  height: 45em;
+  display: inline-block;
+  float: right; }
+
+#forms {
+  width: 4em;
+  height: 2.7em;
+  float: left; }
+
+/*# sourceMappingURL=styles.css.map */
